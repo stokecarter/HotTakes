@@ -1,0 +1,156 @@
+PODS:
+  - Alamofire (5.3.0)
+  - AppAuth (1.4.0):
+    - AppAuth/Core (= 1.4.0)
+    - AppAuth/ExternalUserAgent (= 1.4.0)
+  - AppAuth/Core (1.4.0)
+  - AppAuth/ExternalUserAgent (1.4.0)
+  - AWSAuthCore (2.17.0):
+    - AWSCore (= 2.17.0)
+  - AWSCognito (2.17.0):
+    - AWSCore (= 2.17.0)
+  - AWSCognitoIdentityProvider (2.17.0):
+    - AWSCognitoIdentityProviderASF (= 2.17.0)
+    - AWSCore (= 2.17.0)
+  - AWSCognitoIdentityProviderASF (2.17.0)
+  - AWSCore (2.17.0)
+  - AWSMobileClient (2.17.0):
+    - AWSAuthCore (= 2.17.0)
+    - AWSCognitoIdentityProvider (= 2.17.0)
+    - AWSCognitoIdentityProviderASF (= 2.17.0)
+    - AWSCore (= 2.17.0)
+  - AWSS3 (2.17.0):
+    - AWSCore (= 2.17.0)
+  - CHIPageControl (0.1.8):
+    - CHIPageControl/Aji (= 0.1.8)
+    - CHIPageControl/Aleppo (= 0.1.8)
+    - CHIPageControl/Chimayo (= 0.1.8)
+    - CHIPageControl/Fresno (= 0.1.8)
+    - CHIPageControl/Jalapeno (= 0.1.8)
+    - CHIPageControl/Jaloro (= 0.1.8)
+    - CHIPageControl/Paprika (= 0.1.8)
+    - CHIPageControl/Puya (= 0.1.8)
+  - CHIPageControl/Aji (0.1.8)
+  - CHIPageControl/Aleppo (0.1.8)
+  - CHIPageControl/Chimayo (0.1.8)
+  - CHIPageControl/Fresno (0.1.8)
+  - CHIPageControl/Jalapeno (0.1.8)
+  - CHIPageControl/Jaloro (0.1.8)
+  - CHIPageControl/Paprika (0.1.8)
+  - CHIPageControl/Puya (0.1.8)
+  - Crashlytics (3.14.0):
+    - Fabric (~> 1.10.2)
+  - EmptyDataSet-Swift (5.0.0)
+  - Fabric (1.10.2)
+  - FBSDKCoreKit (8.0.0):
+    - FBSDKCoreKit/Basics (= 8.0.0)
+    - FBSDKCoreKit/Core (= 8.0.0)
+  - FBSDKCoreKit/Basics (8.0.0)
+  - FBSDKCoreKit/Core (8.0.0):
+    - FBSDKCoreKit/Basics
+  - FBSDKLoginKit (8.0.0):
+    - FBSDKLoginKit/Login (= 8.0.0)
+  - FBSDKLoginKit/Login (8.0.0):
+    - FBSDKCoreKit (~> 8.0.0)
+  - FittedSheets (2.4.0)
+  - GoogleSignIn (5.0.2):
+    - AppAuth (~> 1.2)
+    - GTMAppAuth (~> 1.0)
+    - GTMSessionFetcher/Core (~> 1.1)
+  - GTMAppAuth (1.1.0):
+    - AppAuth/Core (~> 1.4)
+    - GTMSessionFetcher (~> 1.4)
+  - GTMSessionFetcher (1.4.0):
+    - GTMSessionFetcher/Full (= 1.4.0)
+  - GTMSessionFetcher/Core (1.4.0)
+  - GTMSessionFetcher/Full (1.4.0):
+    - GTMSessionFetcher/Core (= 1.4.0)
+  - IQKeyboardManagerSwift (6.5.6)
+  - Mantis (1.5.2)
+  - NVActivityIndicatorView (5.1.1):
+    - NVActivityIndicatorView/Base (= 5.1.1)
+  - NVActivityIndicatorView/Base (5.1.1)
+  - SDWebImage (5.9.5):
+    - SDWebImage/Core (= 5.9.5)
+  - SDWebImage/Core (5.9.5)
+  - SwiftMessages (8.0.2):
+    - SwiftMessages/App (= 8.0.2)
+  - SwiftMessages/App (8.0.2)
+  - SwiftyJSON (5.0.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - AWSCognito
+  - AWSMobileClient
+  - AWSS3
+  - CHIPageControl (~> 0.1.3)
+  - Crashlytics
+  - EmptyDataSet-Swift (~> 5.0.0)
+  - FBSDKLoginKit
+  - FittedSheets
+  - GoogleSignIn
+  - IQKeyboardManagerSwift
+  - Mantis (~> 1.5.2)
+  - NVActivityIndicatorView
+  - SDWebImage
+  - SwiftMessages
+  - SwiftyJSON
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - AppAuth
+    - AWSAuthCore
+    - AWSCognito
+    - AWSCognitoIdentityProvider
+    - AWSCognitoIdentityProviderASF
+    - AWSCore
+    - AWSMobileClient
+    - AWSS3
+    - CHIPageControl
+    - Crashlytics
+    - EmptyDataSet-Swift
+    - Fabric
+    - FBSDKCoreKit
+    - FBSDKLoginKit
+    - FittedSheets
+    - GoogleSignIn
+    - GTMAppAuth
+    - GTMSessionFetcher
+    - IQKeyboardManagerSwift
+    - Mantis
+    - NVActivityIndicatorView
+    - SDWebImage
+    - SwiftMessages
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: 2c792affbdc2f18016e08fdbcacd60aebe1ba593
+  AppAuth: 31bcec809a638d7bd2f86ea8a52bd45f6e81e7c7
+  AWSAuthCore: 35e63f55ee6fa31b848dfa8fcddbe0fccdba9a13
+  AWSCognito: aadfe376af60c38fcee60ef80600cd07a4a83419
+  AWSCognitoIdentityProvider: bbc75ab74931db6909ffd9b24e7f4e52ae210361
+  AWSCognitoIdentityProviderASF: 87ebf727c8429f93b4188b2ad13ad1f76ce3cefd
+  AWSCore: f20f7eb426d598ab753219e41ba524c0dc6f2b5c
+  AWSMobileClient: 45523613684950c049914eacbc9f19cdd9f4cc83
+  AWSS3: 5b27ab973f0ed7fcd88ba52c98825c9984982541
+  CHIPageControl: 76b35c8309d8dd155e869c109cc6ffc0aaa465ff
+  Crashlytics: 9220f5bc89e7a618df411b4f639389dbfb0e03d2
+  EmptyDataSet-Swift: eb382c0c87a2d9c678077385a595cec52da38171
+  Fabric: ea977e3cd9c20425516d3dafd3bf8c941c51223f
+  FBSDKCoreKit: 9d27fe97a2fa2abe5eeefea8240e837623ab88e0
+  FBSDKLoginKit: 2cbaf5405379731b22f2ebc224f7c30f62378171
+  FittedSheets: 470a7740a083156d711ab6ccd37d1d539005e6aa
+  GoogleSignIn: 7137d297ddc022a7e0aa4619c86d72c909fa7213
+  GTMAppAuth: 197a8dabfea5d665224aa00d17f164fc2248dab9
+  GTMSessionFetcher: 6f5c8abbab8a9bce4bb3f057e317728ec6182b10
+  IQKeyboardManagerSwift: c7df9d2deb356c04522f5c4b7b6e4ce4d8ed94fe
+  Mantis: 2d820f8d7a2f576ad028d5418faab8f5656c2997
+  NVActivityIndicatorView: 1f6c5687f1171810aa27a3296814dc2d7dec3667
+  SDWebImage: 0b2ba0d56479bf6a45ecddbfd5558bea93150d25
+  SwiftMessages: 633304165351b8e3dcbb81a71f8efcd86f9c1669
+  SwiftyJSON: 36413e04c44ee145039d332b4f4e2d3e8d6c4db7
+
+PODFILE CHECKSUM: b5bc16146efac5c62670f5cd84553a74bef06e5f
+
+COCOAPODS: 1.10.0.rc.1
